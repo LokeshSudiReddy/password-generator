@@ -25,7 +25,7 @@ Additionally, it includes a **copy-to-clipboard** function for easy usability.
 ## 💻 How to Run the Project
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git@github.com:LokeshSudiReddy/password-generator.git
    ```
 2. **Navigate to the Project Folder:**
    ```bash

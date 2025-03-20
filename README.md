@@ -21,6 +21,8 @@ Additionally, it includes a **copy-to-clipboard** function for easy usability.
 ✅ **Copy-to-Clipboard** – Allows users to copy generated passwords with one click.  
 ✅ **Responsive Design** – Works on all devices (mobile, tablet, desktop).  
 
+📸 Screenshot
+![WhatsApp Image 2025-03-21 at 00 39 56_7eac41ca](https://github.com/user-attachments/assets/b80b3af6-d38b-4b34-be3f-69a2ab8afe8e)
 
 ## 💻 How to Run the Project
 1. **Clone the Repository:**
